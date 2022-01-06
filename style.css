@@ -106,3 +106,97 @@ h2{
 .contant{
     text-align: left;
 }
+
+/* thard */
+
+.develop-section {
+    display: flex;
+    margin-top: 50px;
+    align-items: center;
+    justify-content: center;
+    width: 90%;
+}
+
+.develop-img {
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 190px;
+    background-position: left;
+    padding-left: 100px;
+}
+
+.develop-img img {
+    width: 85%;
+}
+
+.develop-text h2 {
+    font-size: 35px;
+    padding-bottom: 20px;
+}
+.develop{
+    text-align: left;
+}
+
+.develop-text p {
+    padding-bottom: 30px;
+    text-align: justify;
+   
+}
+
+/* forth */
+
+.community-section {
+    display: flex;
+    margin: 100px auto;
+    width: 90%;
+    justify-content: center;
+    align-items: center;
+}
+
+.community-text {
+    padding-left: 30px;
+}
+
+.personal-text h2 {
+    font-size: 35px;
+    padding-bottom: 20px;
+}
+
+.personal-text p {
+    width: 80%;
+    text-align: justify;
+    padding-bottom: 50px;
+    font-size: 17px;
+}
+
+.personal-img img {
+    width: 85%;
+}
+
+/* las */
+
+.service{
+    display: flex;
+    background-color:ghostwhite;
+}
+.services{
+    font-size:x-large;
+    font-weight:bolder;
+}
+.contact_button{
+    margin-top: 50px;
+}
+
+/* footer */
+
+.footer-section {
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 50px;
+}
+
+.footer-section h2 {
+    font-size: 40px;
+    line-height: 2;
+}
